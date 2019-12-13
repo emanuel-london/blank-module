@@ -1,5 +1,5 @@
 {
-    "name": "emanuellondon/blank-module",
+    "name": "drupal/blank-module",
     "description": "Blank module for demonstration purposes",
     "type": "drupal-custom-module",
     "authors": [
@@ -7,8 +7,5 @@
             "name": "Emanuel London",
             "email": "emanuel.london@autodesk.com"
         }
-    ],
-   "require": {
-        "composer/installers": "^1.2",
-    }
+    ]
 }
