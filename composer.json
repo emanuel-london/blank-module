@@ -1,7 +1,7 @@
 {
     "name": "emanuellondon/blank-module",
     "description": "Blank module for demonstration purposes",
-    "type": "drupal-custom-module",
+    "type": "custom-module",
     "authors": [
         {
             "name": "Emanuel London",
@@ -9,6 +9,6 @@
         }
     ],
    "require": {
-        "composer/installers": "~1.0"
+        "composer/installers": "^1.2",
     }
 }
