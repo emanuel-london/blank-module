@@ -1,7 +1,7 @@
 {
     "name": "emanuellondon/blank-module",
     "description": "Blank module for demonstration purposes",
-    "type": "custom-module",
+    "type": "drupal-custom-module",
     "authors": [
         {
             "name": "Emanuel London",
